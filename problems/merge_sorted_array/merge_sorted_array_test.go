@@ -1,4 +1,4 @@
-package problems
+package merge_sorted_array
 
 import (
 	"github.com/stretchr/testify/require"

@@ -1,4 +1,4 @@
-package problems
+package rotateArray
 
 func rotate(nums []int, k int) []int {
 	k %= len(nums)
