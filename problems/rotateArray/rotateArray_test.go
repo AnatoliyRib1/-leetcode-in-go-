@@ -1,4 +1,4 @@
-package problems
+package rotateArray
 
 import (
 	"github.com/stretchr/testify/require"
