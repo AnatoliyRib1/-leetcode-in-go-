@@ -1,12 +1,8 @@
-package reverce_Linked_List
+package reverse_Linked_List
 
 import . "sample/utils/linkedlist"
 
 func reverseList(head *ListNode) *ListNode {
-
-	if head == nil {
-		return nil
-	}
 
 	var prev *ListNode
 
