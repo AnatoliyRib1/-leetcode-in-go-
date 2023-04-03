@@ -1,4 +1,4 @@
-package reverce_Linked_List
+package reverse_Linked_List
 
 import (
 	"github.com/stretchr/testify/require"
@@ -6,7 +6,7 @@ import (
 	"testing"
 )
 
-func Test_reverceLL(t *testing.T) {
+func Test_reverseLL(t *testing.T) {
 	tests := []struct {
 		name string
 		got  []int
